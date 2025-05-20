@@ -1,0 +1,10 @@
+1.000 P0->COM1 arrives at COM0 [ ]
+2.000 P1->COM1 arrives at COM0 [ P0->COM1 ]
+3.000 P2->COM1 arrives at COM0 [ P0->COM1 P1->COM1 ]
+3.000 P2->COM1 departs
+4.000 B0@COM0 passengers: [ ] [ ]  Stop: COM0 [ P0->COM1 P1->COM1 ]
+5.000 B0@COM1 passengers: [ ] [ P0->COM1 P1->COM1 ]  Stop: COM1 [ ]
+6.000 B0@COM0 passengers: [ ] [ ]  Stop: COM0 [ ]
+7.000 B0@COM1 passengers: [ ] [ ]  Stop: COM1 [ ]
+8.000 B0@COM0 passengers: [ ] [ ]  Stop: COM0 [ ]
+9.000 B0@COM1 passengers: [ ] [ ]  Stop: COM1 [ ]

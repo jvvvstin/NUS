@@ -1,0 +1,4 @@
+1.000 P0->COM1 arrives at COM0 [ ]
+2.000 P1->COM1 arrives at COM0 [ P0->COM1 ]
+3.000 P2->COM1 arrives at COM0 [ P0->COM1 P1->COM1 ]
+3.000 P2->COM1 departs
